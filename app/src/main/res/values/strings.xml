@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Primjeri osnovnih layouta</string>
+    <string name="app_name" translatable="false">Primjeri osnovnih layouta</string>
     <string name="grid_layout">Grid layout</string>
     <string name="linHor_layout">Linearni layout (horizontalni)</string>
     <string name="cons_layout">Constraint layout</string>
